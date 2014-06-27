@@ -5,12 +5,13 @@ name:                collapse-util
 version:             0.1.0.0
 synopsis:            utility for collapsing adjacent writes
 -- description:         
-homepage:            http://github.com/mwotton/collapse-util
+homepage:            http://github.com/mwotton/collapse
 license:             BSD3
 license-file:        LICENSE
 author:              Mark Wotton
 maintainer:          mwotton@gmail.com
 -- copyright:           
+bug-reports:         https://github.com/mwotton/collapse/issues
 category:            Concurrency
 build-type:          Simple
 -- extra-source-files:  
